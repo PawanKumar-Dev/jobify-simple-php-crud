@@ -1,0 +1,2 @@
+Unknown column 'nam' in 'field list'
+Unknown column 'nam' in 'field list'
